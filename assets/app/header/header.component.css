@@ -1,0 +1,34 @@
+.fixed-nav-bar {
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+    width: 100%;
+    height: 80px;
+    background-color: #ffffff;
+    opacity: 0.9;
+
+    border-style: solid;
+    border-bottom: thick #cdcdb1;
+}
+
+.navbar-links{
+    float: left;
+    padding-top: 20px;
+}
+
+.btn{
+    margin-top: 0px;
+    padding: 10px 20px;
+    font-weight: bolder;
+    font-size: 120%;
+}
+
+.msignup{
+    margin-left: 5px;
+    margin-right: 100px;
+}
+
+.mlogin{
+    margin-left: 40px;
+}
